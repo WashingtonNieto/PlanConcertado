@@ -1,0 +1,126 @@
+{
+  "_ayuda": "Edite este archivo para ajustar colegios, fichas, voceros y horarios. Es el unico archivo que debe mantener actualizado cada trimestre.",
+
+  "instructor": "Washington Nieto",
+  "ciudad": "Bogotá",
+  "centro": "CENTRO DE DISEÑO Y METROLOGÍA",
+  "programa": "TÉCNICO EN PROGRAMACIÓN DE SOFTWARE",
+  "programa_titulo": "Técnico en Programación de Software",
+
+  "archivo_plantilla": "GOR-F-084FormatodeActaV02 PLAN CONCERTADO.docx",
+  "archivo_excel": "RESULTADOS_A_EVALUAR_10_11_GUIA_TEMA_ACTIVIDAD.xlsx",
+  "carpeta_salida": "Actas generadas",
+
+  "_terminos": "Los temas del Excel vienen en MAYUSCULAS y se pasan a formato de oracion. Esta lista conserva la grafia correcta de los terminos tecnicos. Agregue los que necesite: la clave va en minuscula.",
+  "terminos_tecnicos": {
+    "sql": "SQL",
+    "ddl": "DDL",
+    "dml": "DML",
+    "crud": "CRUD",
+    "acid": "ACID",
+    "api": "API",
+    "uml": "UML",
+    "tic": "TIC",
+    "bbdd": "BBDD",
+    "mer": "MER",
+    "der": "DER",
+    "sgbd": "SGBD",
+    "poo": "POO",
+    "ide": "IDE",
+    "json": "JSON",
+    "xml": "XML",
+    "html": "HTML",
+    "css": "CSS",
+    "git": "Git",
+    "github": "GitHub",
+    "mysql": "MySQL",
+    "postgresql": "PostgreSQL",
+    "mongo db": "MongoDB",
+    "mongodb": "MongoDB",
+    "cassandra": "Cassandra",
+    "neo4j": "Neo4j",
+    "oracle": "Oracle",
+    "phpmyadmin": "phpMyAdmin",
+    "pseint": "PSeInt",
+    "html5": "HTML5",
+    "css3": "CSS3",
+    "javascript": "JavaScript",
+    "php": "PHP",
+    "pdf": "PDF",
+    "sena": "SENA",
+    "rap": "RAP",
+    "front-end": "Front-End",
+    "back-end": "Back-End",
+    "frontend": "Front-End",
+    "backend": "Back-End"
+  },
+
+  "colegios": [
+    {
+      "nombre": "Colegio Magdalena Ortega de Nariño",
+      "ambiente": "0003",
+      "fichas": [
+        {
+          "grado": "10",
+          "ficha": "",
+          "vocero": "",
+          "dia": "lunes",
+          "hora_inicio": "12:30 pm",
+          "hora_fin": "5:30 pm"
+        },
+        {
+          "grado": "11",
+          "ficha": "3191165",
+          "vocero": "",
+          "dia": "lunes",
+          "hora_inicio": "12:30 pm",
+          "hora_fin": "5:30 pm"
+        }
+      ]
+    },
+    {
+      "nombre": "Colegio Fernando Soto Aparicio",
+      "ambiente": "0001",
+      "fichas": [
+        {
+          "grado": "10",
+          "ficha": "",
+          "vocero": "",
+          "dia": "martes",
+          "hora_inicio": "12:30 pm",
+          "hora_fin": "5:30 pm"
+        },
+        {
+          "grado": "11",
+          "ficha": "",
+          "vocero": "",
+          "dia": "martes",
+          "hora_inicio": "12:30 pm",
+          "hora_fin": "5:30 pm"
+        }
+      ]
+    },
+    {
+      "nombre": "Colegio Estados Unidos",
+      "ambiente": "0002",
+      "fichas": [
+        {
+          "grado": "10",
+          "ficha": "",
+          "vocero": "",
+          "dia": "jueves",
+          "hora_inicio": "12:30 pm",
+          "hora_fin": "5:30 pm"
+        },
+        {
+          "grado": "11",
+          "ficha": "",
+          "vocero": "",
+          "dia": "jueves",
+          "hora_inicio": "12:30 pm",
+          "hora_fin": "5:30 pm"
+        }
+      ]
+    }
+  ]
+}
