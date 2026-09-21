@@ -63,10 +63,10 @@
         {
           "grado": "11",
           "ficha": "3191165",
-          "vocero": "",
-          "dia": "lunes",
-          "hora_inicio": "12:30 pm",
-          "hora_fin": "5:30 pm"
+          "vocero": "Angie Nicol Garcia Rocha",
+          "dia": "lunes y miercoles",
+          "hora_inicio": "6:30 am",
+          "hora_fin": "11:30 pm"
         }
       ]
     },
@@ -77,24 +77,23 @@
 
         {
           "grado": "11",
-          "ficha": "",
-          "vocero": "",
-          "dia": "martes",
+          "ficha": "3218687",
+          "vocero": "Jeriko Damian Macias Mejia",
+          "dia": "martes y jueves",
           "hora_inicio": "12:30 pm",
           "hora_fin": "5:30 pm"
         }
       ]
     },
     {
-      "nombre": "Colegio Republica de Estados Unidos",
+      "nombre": "Colegio Republica EE.UU. De America",
       "ambiente": "0002",
       "fichas": [
-
         {
           "grado": "11",
-          "ficha": "",
-          "vocero": "",
-          "dia": "jueves",
+          "ficha": "3191243",
+          "vocero": "Emely Julieth Olave Soto",
+          "dia": "miercoles y viernes",
           "hora_inicio": "12:30 pm",
           "hora_fin": "5:30 pm"
         }
@@ -107,8 +106,8 @@
         {
           "grado": "10",
           "ficha": "",
-          "vocero": "",
-          "dia": "jueves",
+          "vocero": "José Portillo",
+          "dia": "lunes",
           "hora_inicio": "12:30 pm",
           "hora_fin": "5:30 pm"
         }
