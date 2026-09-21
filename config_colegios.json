@@ -61,14 +61,6 @@
       "ambiente": "0003",
       "fichas": [
         {
-          "grado": "10",
-          "ficha": "",
-          "vocero": "",
-          "dia": "lunes",
-          "hora_inicio": "12:30 pm",
-          "hora_fin": "5:30 pm"
-        },
-        {
           "grado": "11",
           "ficha": "3191165",
           "vocero": "",
@@ -82,14 +74,7 @@
       "nombre": "Colegio Fernando Soto Aparicio",
       "ambiente": "0001",
       "fichas": [
-        {
-          "grado": "10",
-          "ficha": "",
-          "vocero": "",
-          "dia": "martes",
-          "hora_inicio": "12:30 pm",
-          "hora_fin": "5:30 pm"
-        },
+
         {
           "grado": "11",
           "ficha": "",
@@ -101,17 +86,10 @@
       ]
     },
     {
-      "nombre": "Colegio Estados Unidos",
+      "nombre": "Colegio Republica de Estados Unidos",
       "ambiente": "0002",
       "fichas": [
-        {
-          "grado": "10",
-          "ficha": "",
-          "vocero": "",
-          "dia": "jueves",
-          "hora_inicio": "12:30 pm",
-          "hora_fin": "5:30 pm"
-        },
+
         {
           "grado": "11",
           "ficha": "",
@@ -121,6 +99,20 @@
           "hora_fin": "5:30 pm"
         }
       ]
-    }
+    },
+    {
+      "nombre": "Colegio Técnico Palermo",
+      "ambiente": "0002",
+      "fichas": [
+        {
+          "grado": "10",
+          "ficha": "",
+          "vocero": "",
+          "dia": "jueves",
+          "hora_inicio": "12:30 pm",
+          "hora_fin": "5:30 pm"
+        }
+      ]
+    }    
   ]
 }
